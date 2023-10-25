@@ -12,8 +12,12 @@
 
 ### C. Examples of Predictive Modelling nad Causal Inference
 C.1 Traffic
+
 C.2 Pollution
+[Publication](https://github.com/dianeMADS/capstone)
+
 C.3 Crypto
+
 C.4 NBA
 
 ### D. Self-Learning
