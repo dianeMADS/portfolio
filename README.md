@@ -1,5 +1,3 @@
-# Data Science Portfolio
-
 # A. SQL and NoSQL Databases
 (under construction)
 
@@ -23,6 +21,8 @@ Incorrect growth estimates can result in premature investments at different loca
 
 This paper proposes a traffic forecasting approach that shows how Machine Learning (ML) can be used to automate iterative calculations and model attributes such as trends and seasonality, failure events along with subsequent interactions between the primary and failover links, and network burst patterns. Our predictive models have the computational power to scale the analysis of the multiple variables and high granularity. This proposal is a powerful and repeatable capacity-planning strategy that enables targeted network augmentation and spending.
 
+##### Tools: 
+
 ### C.2 Covid-19 Lockdown and Pollution in the City of Chicago
 
 [streamlit](https://dianemads-capstone-streamlitstreamlit-hyz5lm.streamlit.app/)
@@ -31,9 +31,11 @@ This paper proposes a traffic forecasting approach that shows how Machine Learni
 
 For this project, we explored the Chicago Array of Things (AoT) Dataset. This massive dataset was collected between 2018 and 2020 from a node array installed throughout the city of Chicago. Nodes have a variety of sensors installed at each location. These sensors fall into one of six categories air quality, meteorological, physical, environmental, system, and vision. Initially, we hoped to focus on determining the quality of life around the city. This proved to be a bit too ambitious, however. We found it very difficult to define quality of life and focus in on key measurements. Instead, we focus mainly on the air quality metrics. These metrics are easier to track over time and there are clear definitions for gas concentrations that are considered dangerous or unhealthy. The analysis focuses on the concentrations of five gasses: CO, H2S, NO2, O3, and SO2, as well as oxidizing and reducing gas concentrations.
 
+##### Tools: 
+
 ### C.3 Cryptocurrency Analysis
 
-[pdf](https://github.com/dianeMADS/milestone2/tree/main/report/Milestone 2 Report - Onguetou - Nikolsky.pdf)
+[pdf](https://github.com/dianeMADS/milestone2/tree/main/report/)
 
 [streamlit](https://dianemads-milestone2-i4rryagqxtyey26mafg5eb.streamlit.app/)
 
@@ -43,7 +45,9 @@ For our Milestone 2 project we had two tasks, supervised learning and unsupervis
 
 For data collection, we used Coinmetrics and LunarCrush, which cover over a thousand cryptocurrencies providing real-time, daily & weekly updates and historical data, regarding market volume, market capitalization, transactions, coins in wallet, social media data, etc. Coinmetrics archives cryptocurrencies since January 2010, meaning data are available almost from creation for almost all existing coins. LunarCrush makes available the last two years worth of data, mostly having to do with social media. Both Coinmetrics and LunarCrush provide free APIs that facilitate historical data downloading.
 
-C.4 NBA
+##### Tools: 
 
-### D. Self-Learning
+### C.4 NBA
+
+# D. Self-Learning
 D.1 Data Manipulation
