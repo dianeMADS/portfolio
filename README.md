@@ -3,10 +3,11 @@
 
 # B. Examples of Dashboards
 ### B.1 [Examples of Tableau Dashboards Developed for Network Planning Purposes](https://dianemads.github.io/dashboards/)
-[//]: # 2. MatPlotlib
+[//]: # (2. MatPlotlib
 3. Altair
 4. Seaborn
-5. Power BI
+5. Power BI)
+[//]: # (This is a comment on a new line.)
 
 # C. Examples of Predictive Modelling nad Causal Inference
 ### C.1 Leveraging Machine Learning for Network Traffic Forecasting
