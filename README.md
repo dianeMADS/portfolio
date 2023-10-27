@@ -1,8 +1,7 @@
 This webpage provides examples of data science projects completed by Diane for work, academic, and self-learning purposes. Those studies encompasses a broad range of skills including: 
-- RESEARCH SKILLS: critical thinking | qualitative inquiry | study design (questions, hypothesis, methodology) | technical writing | oral presentation to both leadership and technical audiences
-- METHODS: web scraping, databases and cloud computing | data wrangling and data manipulation | visualization and dashboarding | statistical analysis | data mining and machine learning for causal inference analysis, network and social media analysis, learning analysis, and NLP
-- TOOLSET: SQL and key-value NoSQL | Python programming for data analysis | AWS cloud computing (SageMaker, S3, Athena) | SnowFlake | Alteryx | Tableau | Power BI
-
+- RESEARCH SKILLS: critical thinking; qualitative inquiry; study design (questions, hypothesis, methodology); technical writing; oral presentation to both leadership and technical audiences
+- METHODS: web scraping, databases and cloud computing; data wrangling and data manipulation; visualization and dashboarding; statistical analysis; data mining and machine learning for causal inference analysis, network and social media analysis, learning analysis, and NLP
+- TOOLSET: SQL and key-value NoSQL; Python programming for data analysis; AWS cloud computing (SageMaker, S3, Athena); SnowFlake; Alteryx; Tableau; Power BI
 
 [//]: # (A. SQL and NoSQL Databases)
 [//]: # (under construction)
@@ -19,9 +18,10 @@ Please click on the title to browse through a few examples of dashboards Diane b
 ### B.1 Leveraging Machine Learning for Network Traffic Forecasting, July 2023
 This study shows how Machine Learning could be leveraged for network traffic forecasting--what a great way to improve accuracy in growth estimates and enable targeted network automation (using trends, seasonality and network patterns.) This analysis received a presentation opportunity at the SCTE'2023 conference, fowwoling a rigorous review process.
 ##### Tools: linear and exponential regressions, advanced time series forecasting models (STL, Holt-Winters Exponential Smoothing, ARIMA, LSTM), AWS SageMaker & S3, Python (Pandas, NumPy, Math, Matplotlib, Seaborn, statsmodels, pmdarima, Scikit-learn, Keras & TensorFlow)
-<a href="https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/3580_DPO_5100_presentation.pdf">Presentation</a>
+<a href="https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/3580_DPO_5100_presentation.pdf">Presentation</a> 
 
-<a href="https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/3580_DPO_5100_paper.pdf">Publication</a>
+<a href="https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/3580_DPO_5100_paper.pdf">Publication</a> 
+(https://www.nctatechnicalpapers.com/Paper/2023/3580_Lee_5100_paper)
 
 [github repository](https://github.com/dianeMADS/traffic-forecasting/tree/main)
 
