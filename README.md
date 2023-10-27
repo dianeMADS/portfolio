@@ -7,7 +7,7 @@ This webpage provides examples of data science projects completed by Diane for w
 [//]: # (under construction)
 
 ## A. [Dashboards](https://dianemads.github.io/dashboards/)
-Please click on the title to browse through a few examples of dashboards Diane built for network monitoring and planning purposes.
+[Please click on the title to browse through a few examples of dashboards Diane built for network monitoring and planning purposes.](https://dianemads.github.io/dashboards/)
 ##### Tools: SQL, AWS Athena & S3, Alteryx, SnowFlake, Tableau
 [//]: # (2. MatPlotlib)
 [//]: # (3. Altair)
