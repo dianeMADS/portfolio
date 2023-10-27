@@ -4,11 +4,11 @@ This webpage provides examples of data science projects completed by Diane for w
 - TOOLSET: SQL and key-value NoSQL | Python programming for data analysis | AWS cloud computing (SageMaker, S3, Athena) | SnowFlake | Alteryx | Tableau | Power BI
 
 
-[//]: # (# A. SQL and NoSQL Databases)
-[//]: # ((under construction))
+[//]: # (A. SQL and NoSQL Databases)
+[//]: # (under construction)
 
 ## A. [Dashboards](https://dianemads.github.io/dashboards/)
-[//]: # (### A.1 [Examples of Tableau Dashboards Developed for Network Planning Purposes](https://dianemads.github.io/dashboards/))
+[//]: # (A.1 [Examples of Tableau Dashboards Developed for Network Planning Purposes](https://dianemads.github.io/dashboards/))
 Please click on the title to browse through a few examples of dashboards Diane built for network monitoring and planning purposes.
 ##### Tools: SQL, AWS Athena & S3, Alteryx, SnowFlake, Tableau
 [//]: # (2. MatPlotlib)
