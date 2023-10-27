@@ -23,7 +23,7 @@ This study shows how Machine Learning could be leveraged for network traffic for
 <a href="https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/3580_DPO_5100_paper.pdf">Publication</a> 
 (https://www.nctatechnicalpapers.com/Paper/2023/3580_Lee_5100_paper)
 
-[github repository](https://github.com/dianeMADS/traffic-forecasting/tree/main)
+[github](https://github.com/dianeMADS/traffic-forecasting/tree/main)
 
 ### B.2 Covid-19 Lockdown and Pollution in the City of Chicago, December 2021
 The context of this analysis is the capstone project required from Master of Applied Data Science (MADS) students at the University of Michigan. We chose to explore  the Chicago Array of Things (AoT) Dataset. This massive dataset was collected between 2018 and 2020 from a node array installed throughout the city of Chicago. Nodes have a variety of sensors installed at each location. These sensors fall into one of six categories air quality, meteorological, physical, environmental, system, and vision. Initially, we hoped to focus on determining the quality of life around the city. This proved to be a bit too ambitious, however. We found it very difficult to define quality of life and focus in on key measurements. Instead, we focus mainly on the air quality metrics. These metrics are easier to track over time and there are clear definitions for gas concentrations that are considered dangerous or unhealthy. The analysis focuses on the concentrations of five gasses: CO, H2S, NO2, O3, and SO2, as well as oxidizing and reducing gas concentrations.
@@ -54,7 +54,7 @@ This project the first milestone of the University of Michigan MADS. The objecti
 
 <a href="https://github.com/dianeMADS/milestone1/blob/main/ESPN-to-NBA%20vFinal-1.pdf">Presentation</a>
 
-[github repository](https://github.com/dianeMADS/milestone1)
+[github](https://github.com/dianeMADS/milestone1)
 
 [//]: # (# D. Self-Learning)
 [//]: # (D.1 Data Manipulation)
