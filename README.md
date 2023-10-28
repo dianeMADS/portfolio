@@ -11,9 +11,10 @@ Please click on the title to browse through a few examples of dashboards develop
 
 ## B. Data Analytics
 ### B.1 Leveraging Machine Learning for Network Traffic Forecasting, July 2023
-This study shows how Machine Learning could be leveraged for network traffic forecasting--what a great way to improve accuracy in growth estimates and enable targeted network automation (using trends, seasonality and network patterns.) This analysis received a presentation opportunity at the SCTE'2023 conference, following a rigorous review process.
 [D.P. Onguetou, A. Maddumabandara, J. Lee, Leveraging Machine Learning for Network Traffic Forecasting, Society of Cable Telecommunications Engineers (SCTE) Technical Forum, Fall 2023.](https://www.nctatechnicalpapers.com/Paper/2023/3580_Lee_5100_paper)
+This study shows how Machine Learning could be leveraged for network traffic forecasting--what a great way to improve accuracy in growth estimates and enable targeted network automation (using trends, seasonality and network patterns.) This analysis received a presentation opportunity at the SCTE'2023 conference, following a rigorous review process.
 
+###### Abstract
 Traditional network planning relies on Compound Annual Growth Rate (CAGR). However, applying the same growth estimate across the entire network is not always accurate due to various factors such as economic, social, or demographic reasons. For example, a community with a nearby university is expected to have a different traffic behaviour during the school year compared to the summer, and a community that hosts major sports franchises exhibits higher traffic depending on regular and post-season performance.
 
 Incorrect growth estimates can result in premature investments at different locations. Also, one can miss important network burst patterns based on high profile events such as smart phone updates, major video game releases or live global sporting events (e.g. the 2022 FIFA World Cup). Attempts were made to address these shortcomings by splitting the network into smaller chunks, and then manually analyzing growth expectations. The granularity and manual labor required to produce useful results made this approach unworkable as you scale the analysis. A new method is required for better traffic forecasting that will allow for targeted and timely spending.
