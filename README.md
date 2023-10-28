@@ -5,7 +5,7 @@ This webpage provides examples of data science projects completed by Diane for w
 <br>
 
 ## A. [Dashboards](https://dianemads.github.io/dashboards/)
-Please click on the title to browse through a few examples of dashboards developed or various audiences including leadership, engineering and operations of an ISP. 
+Please click on the title to browse through a few examples of dashboards developed for various audiences including leadership, engineering and operations of an ISP. 
 ##### Tools: SQL, AWS Athena & S3, Alteryx, SnowFlake, Tableau
 <br>
 
