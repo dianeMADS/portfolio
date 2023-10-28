@@ -7,13 +7,10 @@ This webpage provides examples of data science projects completed by Diane for w
 [//]: # (under construction)
 
 ## A. [Dashboards](https://dianemads.github.io/dashboards/)
-[Please click on the title to browse through a few examples of dashboards Diane built for network monitoring and planning purposes.](https://dianemads.github.io/dashboards/)
-Examples of traffic analysis dashboards developed or various audiences including leadership, engineering and operations of an ISP. Initial data sources are Network Management System (NMS) collecting 5-min traffic traces from network routers and dumping them into a datalake. I then built Alteryx workflow processes for daily, weekly and monthly aggregations that populate a pre-designed SnowFlake master table. BI tools such as Tableau then consume data from the SnowFlake table.
+Please click on the title to browse through a few examples of dashboards developed or various audiences including leadership, engineering and operations of an ISP. 
 ##### Tools: SQL, AWS Athena & S3, Alteryx, SnowFlake, Tableau
-[//]: # (2. MatPlotlib)
-[//]: # (3. Altair)
-[//]: # (4. Seaborn)
-[//]: # (5. Power BI)
+<br>
+<br>
 
 ## B. Data Analytics
 ### B.1 Leveraging Machine Learning for Network Traffic Forecasting, July 2023
