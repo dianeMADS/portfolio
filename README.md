@@ -27,6 +27,7 @@ This paper proposes a traffic forecasting approach that shows how Machine Learni
 
 [github](https://github.com/dianeMADS/traffic-forecasting/tree/main)
 
+<br>
 ### B.2 Covid-19 Lockdown and Pollution in the City of Chicago, December 2021
 The context of this analysis is the capstone project required from Master of Applied Data Science (MADS) students at the University of Michigan. We chose to explore  the Chicago Array of Things (AoT) Dataset. This massive dataset was collected between 2018 and 2020 from a node array installed throughout the city of Chicago. Nodes have a variety of sensors installed at each location. These sensors fall into one of six categories air quality, meteorological, physical, environmental, system, and vision. Initially, we hoped to focus on determining the quality of life around the city. This proved to be a bit too ambitious, however. We found it very difficult to define quality of life and focus in on key measurements. Instead, we focus mainly on the air quality metrics. These metrics are easier to track over time and there are clear definitions for gas concentrations that are considered dangerous or unhealthy. The analysis focuses on the concentrations of five gasses: CO, H2S, NO2, O3, and SO2, as well as oxidizing and reducing gas concentrations.
 
@@ -36,16 +37,20 @@ The context of this analysis is the capstone project required from Master of App
 
 [github](https://github.com/dianeMADS/capstone)
 
+<br>
+
 ### B.3 Cryptocurrency Analysis, September 2021
 This project is also another requirement from the MADS program at the University of Michigan, with two tasks: upervised learning and unsupervised learning analysis. We decided to try to do next-day price prediction for the supervised learning part because it was a simpler goal for us to understand. For the unsupervised learning part of the project, we wanted to see if we could find families of coins whose prices tend to move together. This was accomplished by finding similar price movement through dynamic time warping and clustering, with the result being quite reasonable.
 
-##### Tools: LSTM, Random Forest, Clustering, Deepnote, Python ()
+##### Tools: LSTM, Random Forest, Clustering, Deepnote, Python (Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, Altair, Malplotlib)
 
 [pdf](https://github.com/dianeMADS/milestone2/blob/main/report/MADS-milestone2-Onguetou-Nikolsky.pdf)
 
 [streamlit](https://dianemads-milestone2-i4rryagqxtyey26mafg5eb.streamlit.app/)
 
 [github](https://github.com/dianeMADS/milestone2)
+
+<br>
 
 ### B.4 Path to the NBA: a detailed look into ESPN High School Basketball Player ratings predictability on making it to the NBA, May 2021
 This project the first milestone of the University of Michigan MADS. The objective was to demonstrate mastering data collection and manipulation, and statistical analysis. Through the analysis, we determined how effective is ESPN's high school basketball rankings at predicting whether a player eventually gets drafted into the league. We also tried to specify characteristics that top players have in common that make it to the NBA, and how many years to get drafted.
