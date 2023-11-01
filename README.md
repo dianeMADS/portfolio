@@ -1,4 +1,7 @@
 
+Examples of data science projects completed by for work, academic, and self-learning purposes. 
+This essentially presents some dashboards developed to support leadership and engineers in decision-making, and examples of machine learning studies.
+
 <!-- This webpage provides examples of data science projects completed by Diane for work, academic, and self-learning purposes. Those studies encompasses a broad range of skills including: 
 - RESEARCH SKILLS: critical thinking; qualitative inquiry; study design (questions, hypothesis, methodology); technical writing; oral presentation to both leadership and technical audiences
 - METHODS: web scraping, databases and cloud computing; data wrangling and data manipulation; visualization and dashboarding; statistical analysis; data mining and machine learning for causal inference analysis, network and social media analysis, learning analysis, and NLP
