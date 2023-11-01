@@ -1,8 +1,4 @@
-
-Examples of data science projects completed by for work, academic, and self-learning purposes:
-- Examples of dashboards developed to support leadership and engineers in decision-making
-- A few analysis involving machine learning for predictive modelling and clustering
-#- Database Management (in construction)
+This portfolio presents examples of data science projects completed by for work, academic, and self-learning purposes. It includes some dashboards developed to support leadership and engineers in decision-making, and a few analysis involving machine learning for predictive modelling and clustering.
 
 <!-- This webpage provides examples of data science projects completed by Diane for work, academic, and self-learning purposes. Those studies encompasses a broad range of skills including: 
 - RESEARCH SKILLS: critical thinking; qualitative inquiry; study design (questions, hypothesis, methodology); technical writing; oral presentation to both leadership and technical audiences
