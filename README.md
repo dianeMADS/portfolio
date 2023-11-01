@@ -10,8 +10,8 @@ This presents examples of data science projects completed by for work, academic,
 # A. Dashboards
 The context for this set of dashboards is a service provider network with millions of users and a mix of all types of internet traffic. The network has hundreds of links with varied capacities, from multiple 10Gs for smaller hubsites to tens of 100Gs for backbone links. Link costs are also varied as some are on the service provider's own fiber infrastructure while others are leases from other providers.
 
-One visualization is to give leadership a high-level view of the network topology and bandwidth utilization. Giving network state at given times, especially under critical conditions, facilitates discussions on growth requirements and network expansions. 
-The other dashboards comprise congestion and failover tables, historical trends, and resource availability reports, equipping network engineers with tools assisting in decision-making for network resource planning.
+One visualization is to give leadership a high-level view of the network topology and bandwidth utilization. Giving network state at specific times, especially under critical conditions, facilitates discussions on growth requirements and network expansions. 
+Other dashboards comprise congestion and failover tables, historical trends, and resource availability reports, equipping network engineers with tools assisting in decision-making for network resource planning.
 ###### Main Tools: SQL, AWS (Athena & S3), Alteryx, SnowFlake, Tableau
 
 [Please follow the link to dashboards](https://dianemads.github.io/dashboards/)
@@ -53,8 +53,8 @@ We chose to explore  the [Chicago Array of Things (AoT) dataset](http://arrayoft
 - [Guided tour for clustering analysis](https://colab.research.google.com/drive/1cOF5HxLqgX7ctv5Kh9x1HmH6RCngOZdk?usp=sharing)
 - [Github repository](https://github.com/dianeMADS/capstone)
 
-## B.3 Cryptocurrency Analysis, September 2021
-This project was another requirement for UMich MADS degree. Two tasks: upervised learning and unsupervised learning analysis. We decided to try to do next-day price prediction for the supervised learning part because it was a simpler goal for us to understand. For the unsupervised learning part of the project, we wanted to see if we could find families of coins whose prices tend to move together. This was accomplished by finding similar price movement through dynamic time warping and clustering, with the result being quite reasonable.
+## B.3 Cryptocurrency Analysis
+This project was another requirement for UMich MADS degree, completed in September 2021. Two main requests: supervised learning and unsupervised learning analysis. We decided to try to do next-day price prediction for the supervised learning part because it was a simpler goal for us to understand. For the unsupervised learning part of the project, we wanted to see if we could find families of coins whose prices tend to move together. This was accomplished by finding similar price movement through dynamic time warping and clustering, with the result being quite reasonable.
 
 ###### Methods and Tools: LSTM, Random Forest, Clustering, Deepnote, Python (Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, Altair, Malplotlib)
 
