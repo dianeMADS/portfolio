@@ -25,8 +25,6 @@ Other dashboards comprise congestion and failover tables, historical trends, and
 ## B.1 Leveraging Machine Learning for Network Traffic Forecasting
 This study showing how machine learning could be leveraged to improve accuracy in growth estimates and enable targeted network augmentation (using trends, seasonality and traffic patterns), received a presentation opportunity at the SCTE conference in October 2023.
 
-[D.P. Onguetou, A. Maddumabandara and J. Lee, Leveraging Machine Learning for Network Traffic Forecasting, Proc. of the <em>Society of Cable Telecommunications Engineers (SCTE) Technical Forum</em>, Fall 2023.](https://www.nctatechnicalpapers.com/Paper/2023/3580_Lee_5100_paper)
-
 #### Abstract
 Traditional network planning relies on Compound Annual Growth Rate (CAGR). However, applying the same growth estimate across the entire network is not always accurate due to various factors such as economic, social, or demographic reasons. For example, a community with a nearby university is expected to have a different traffic behaviour during the school year compared to the summer, and a community that hosts major sports franchises exhibits higher traffic depending on regular and post-season performance.
 
@@ -36,7 +34,7 @@ This paper proposes a traffic forecasting approach that shows how Machine Learni
 
 ###### Methods and Tools: linear and exponential regressions, advanced time series forecasting models (STL, Holt-Winters Exponential Smoothing, ARIMA, LSTM), AWS (SageMaker & S3), SQL, Python (Pandas, NumPy, Math, Matplotlib, Seaborn, statsmodels, pmdarima, Scikit-learn, Keras & TensorFlow)
 
-- [Publication](https://www.nctatechnicalpapers.com/Paper/2023/3580_Lee_5100_paper)
+[D.P. Onguetou, A. Maddumabandara and J. Lee, Leveraging Machine Learning for Network Traffic Forecasting, Proc. of the <em>Society of Cable Telecommunications Engineers (SCTE) Technical Forum</em>, Fall 2023.](https://www.nctatechnicalpapers.com/Paper/2023/3580_Lee_5100_paper)
 - <a href="https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/3580_DPO_5100_presentation.pdf">Presentation</a> 
 
 <!-- [github](https://github.com/dianeMADS/traffic-forecasting/tree/main)
