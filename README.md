@@ -7,7 +7,7 @@ This portfolio presents examples of data science projects completed by for work,
 <br>
 -->
 
-# CONTEXT
+# CONTENT
 
 ## A. Dashboards
 The context for this set of dashboards is a service provider network with millions of users and a mix of all types of internet traffic. The network has hundreds of links with varied capacities, from multiple 10Gs for smaller hubsites to tens of 100Gs for backbone links. Link costs are also varied as some are on the service provider's own fiber infrastructure while others are leases from other providers.
