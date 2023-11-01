@@ -1,4 +1,4 @@
-This portfolio presents examples of data science projects completed by for work, academic, and self-learning purposes. It includes some dashboards developed to support leadership and engineers in decision-making, and a few analysis involving machine learning for predictive modelling and clustering.
+This presents examples of data science projects completed by for work, academic, and self-learning purposes. They include some dashboards developed to support leadership and engineers in decision-making, and a few analysis involving machine learning for predictive modelling and clustering.
 
 <!-- This webpage provides examples of data science projects completed by Diane for work, academic, and self-learning purposes. Those studies encompasses a broad range of skills including: 
 - RESEARCH SKILLS: critical thinking; qualitative inquiry; study design (questions, hypothesis, methodology); technical writing; oral presentation to both leadership and technical audiences
@@ -12,6 +12,7 @@ The context for this set of dashboards is a service provider network with millio
 
 One visualization is to give leadership a high-level view of the network topology and bandwidth utilization. Giving network state at given times, especially under critical conditions, facilitates discussions on growth requirements and network expansions. 
 The other dashboards comprise congestion and failover tables, historical trends, and resource availability reports, equipping network engineers with tools assisting in decision-making for network resource planning.
+##### Tools: SQL, AWS Athena & S3, Alteryx, SnowFlake, Tableau
 
 [Please follow the link to dashboards](https://dianemads.github.io/dashboards/)
 
@@ -41,7 +42,7 @@ This paper proposes a traffic forecasting approach that shows how Machine Learni
 <!-- [github](https://github.com/dianeMADS/traffic-forecasting/tree/main)
 -->
 
-### B.2 Covid-19 Lockdown and Pollution in the City of Chicago, December 2021
+## B.2 Covid-19 Lockdown and Pollution in the City of Chicago, December 2021
 The context of this analysis is the capstone project required from Master of Applied Data Science (MADS) students at the University of Michigan. We chose to explore  the Chicago Array of Things (AoT) Dataset. This massive dataset was collected between 2018 and 2020 from a node array installed throughout the city of Chicago. Nodes have a variety of sensors installed at each location. These sensors fall into one of six categories air quality, meteorological, physical, environmental, system, and vision. Initially, we hoped to focus on determining the quality of life around the city. This proved to be a bit too ambitious, however. We found it very difficult to define quality of life and focus in on key measurements. Instead, we focus mainly on the air quality metrics. These metrics are easier to track over time and there are clear definitions for gas concentrations that are considered dangerous or unhealthy. The analysis focuses on the concentrations of five gasses: CO, H2S, NO2, O3, and SO2, as well as oxidizing and reducing gas concentrations.
 
 ##### Tools: causal inference analysis, vector autoregression, clustering, Google colab, Python (Pandas, NumPy, Math, Matplotlib, Seaborn, statsmodels, folium, altair, gzip, os), C++
