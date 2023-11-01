@@ -44,15 +44,16 @@ This paper proposes a traffic forecasting approach that shows how Machine Learni
 ## B.2 Covid-19 Lockdown and Pollution in the City of Chicago
 This analysis was completed in December 2021, as part of requirements for the Master of Applied Data Science (MADS) degree at the University of Michigan. 
 
-We chose to explore  the Chicago Array of Things (AoT) Dataset. This massive dataset was collected between 2018 and 2020 from a node array installed throughout the city of Chicago. Nodes have a variety of sensors installed at each location. These sensors fall into one of six categories air quality, meteorological, physical, environmental, system, and vision. Initially, we hoped to focus on determining the quality of life around the city. This proved to be a bit too ambitious, however. We found it very difficult to define quality of life and focus in on key measurements. Instead, we focus mainly on the air quality metrics. These metrics are easier to track over time and there are clear definitions for gas concentrations that are considered dangerous or unhealthy. The analysis focuses on the concentrations of five gasses: CO, H2S, NO2, O3, and SO2, as well as oxidizing and reducing gas concentrations.
+We chose to explore  the [Chicago Array of Things (AoT) dataset](http://arrayofthings.github.io/). This massive dataset was collected between 2018 and 2020 from a node array installed throughout the city of Chicago. Nodes have a variety of sensors installed at each location. These sensors fall into one of six categories air quality, meteorological, physical, environmental, system, and vision. Initially, we hoped to focus on determining the quality of life around the city. This proved to be a bit too ambitious, however. We found it very difficult to define quality of life and focus in on key measurements. Instead, we focus mainly on the air quality metrics. These metrics are easier to track over time and there are clear definitions for gas concentrations that are considered dangerous or unhealthy. The analysis focuses on the concentrations of five gasses: CO, H2S, NO2, O3, and SO2, as well as oxidizing and reducing gas concentrations.
 
 ###### Methods and Tools: causal inference analysis, vector autoregression, clustering, Google colab, Python (Pandas, NumPy, Math, Matplotlib, Seaborn, statsmodels, folium, altair, gzip, os), C++
 
-[streamlit report](https://dianemads-capstone-streamlitstreamlit-hyz5lm.streamlit.app/)
+- [Blog](https://dianemads-capstone-streamlitstreamlit-hyz5lm.streamlit.app/)
+- [Short video explanation](https://drive.google.com/file/d/13i5_bAYNkdLmUPxKhUNY_RBTNTcorssL/view?usp=sharing)
+- [Guided toure for causal inference analysis](https://colab.research.google.com/drive/1d4nclhPZjrF58zoMY0_WiKBNh8j3n16a?usp=sharing)
+- [Notebook for clustering analysis](https://colab.research.google.com/drive/1cOF5HxLqgX7ctv5Kh9x1HmH6RCngOZdk?usp=sharing)
+- [github](https://github.com/dianeMADS/capstone)
 
-[github](https://github.com/dianeMADS/capstone)
-
-<br>
 
 ## B.3 Cryptocurrency Analysis, September 2021
 This project is also another requirement from the MADS program at the University of Michigan, with two tasks: upervised learning and unsupervised learning analysis. We decided to try to do next-day price prediction for the supervised learning part because it was a simpler goal for us to understand. For the unsupervised learning part of the project, we wanted to see if we could find families of coins whose prices tend to move together. This was accomplished by finding similar price movement through dynamic time warping and clustering, with the result being quite reasonable.
