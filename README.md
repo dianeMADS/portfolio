@@ -63,7 +63,6 @@ We selected Coinmetrics and LunarChrush, which cover a thousand cryptocurrencies
 - [Final Report](https://github.com/dianeMADS/milestone2/blob/main/report/MADS-milestone2-Onguetou-Nikolsky.pdf)
 - [Further visualizations](https://dianemads-milestone2-i4rryagqxtyey26mafg5eb.streamlit.app/)
 - [GitHub repository with source codes](https://github.com/dianeMADS/milestone2)
-<br>
 
 ## B.4 Path to the NBA: a detailed look into ESPN High School Basketball Player ratings predictability on making it to the NBA
 We completed the first milestone for the Master of Applied Data Science degree at the University of Michigan in May 2021. The objective was to demonstrate mastering data collection and manipulation, and statistical analysis. 
