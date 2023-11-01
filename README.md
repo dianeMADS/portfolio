@@ -63,6 +63,7 @@ This project was another requirement for UMich MADS degree, completed in Septemb
 - [streamlit](https://dianemads-milestone2-i4rryagqxtyey26mafg5eb.streamlit.app/)
 - [github](https://github.com/dianeMADS/milestone2)
 <br>
+
 ## B.4 Path to the NBA: a detailed look into ESPN High School Basketball Player ratings predictability on making it to the NBA, May 2021
 This project the first milestone of the University of Michigan MADS. The objective was to demonstrate mastering data collection and manipulation, and statistical analysis. Through the analysis, we determined how effective is ESPN's high school basketball rankings at predicting whether a player eventually gets drafted into the league. We also tried to specify characteristics that top players have in common that make it to the NBA, and how many years to get drafted.
 
