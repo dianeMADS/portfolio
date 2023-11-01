@@ -12,7 +12,7 @@ The context for this set of dashboards is a service provider network with millio
 
 One visualization is to give leadership a high-level view of the network topology and bandwidth utilization. Giving network state at specific times, especially under critical conditions, facilitates discussions on growth requirements and network expansions. 
 Other dashboards comprise congestion and failover tables, historical trends, and resource availability reports, equipping network engineers with tools assisting in decision-making for network resource planning.
-###### Main Tools: SQL, AWS (Athena & S3), Alteryx, SnowFlake, Tableau
+###### <u>Main Tools</u> SQL, AWS (Athena & S3), Alteryx, SnowFlake, Tableau
 
 [Please follow the link to dashboards](https://dianemads.github.io/dashboards/)
 
@@ -32,7 +32,7 @@ Incorrect growth estimates can result in premature investments at different loca
 
 This paper proposes a traffic forecasting approach that shows how Machine Learning (ML) can be used to automate iterative calculations and model attributes such as trends and seasonality, failure events along with subsequent interactions between the primary and failover links, and network burst patterns. Our predictive models have the computational power to scale the analysis of the multiple variables and high granularity. This proposal is a powerful and repeatable capacity-planning strategy that enables targeted network augmentation and spending.
 
-###### Methods and Tools: linear and exponential regressions, advanced time series forecasting models (STL, Holt-Winters Exponential Smoothing, ARIMA, LSTM), AWS (SageMaker & S3), SQL, Python (Pandas, NumPy, Math, Matplotlib, Seaborn, statsmodels, pmdarima, Scikit-learn, Keras & TensorFlow)
+###### <u>Methods and Tools</u> linear and exponential regressions, advanced time series forecasting models (STL, Holt-Winters Exponential Smoothing, ARIMA, LSTM), AWS (SageMaker & S3), SQL, Python (Pandas, NumPy, Math, Matplotlib, Seaborn, statsmodels, pmdarima, Scikit-learn, Keras & TensorFlow)
 
 [D.P. Onguetou, A. Maddumabandara and J. Lee, Leveraging Machine Learning for Network Traffic Forecasting, Proc. of the <em>Society of Cable Telecommunications Engineers (SCTE) Technical Forum</em>, Fall 2023.](https://www.nctatechnicalpapers.com/Paper/2023/3580_Lee_5100_paper)
 - <a href="https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/3580_DPO_5100_presentation.pdf">Presentation</a> 
@@ -45,7 +45,7 @@ This analysis was completed in December 2021, as part of requirements for the Ma
 
 We chose to explore  the [Chicago Array of Things (AoT) dataset](http://arrayofthings.github.io/). This massive dataset was collected between 2018 and 2020 from a node array installed throughout the city of Chicago. Nodes have a variety of sensors installed at each location. These sensors fall into one of six categories air quality, meteorological, physical, environmental, system, and vision. Initially, we hoped to focus on determining the quality of life around the city. This proved to be a bit too ambitious, however. We found it very difficult to define quality of life based on available measurements. Instead, we focused mainly on the air quality metrics. These metrics are easier to track over time and there are clear definitions for gas concentrations that are considered dangerous or unhealthy. The analysis focuses on the concentrations of five gasses: CO, H2S, NO2, O3, and SO2, as well as oxidizing and reducing gas concentrations.
 
-###### Methods and Tools: causal inference analysis, vector autoregression, clustering, Google colab, Python (Pandas, NumPy, Math, Matplotlib, Seaborn, statsmodels, folium, altair, gzip, os), C#
+###### <u>Methods and Tools</u> causal inference analysis, vector autoregression, clustering, Google colab, Python (Pandas, NumPy, Math, Matplotlib, Seaborn, statsmodels, folium, altair, gzip, os), C#
 
 - [Blog](https://dianemads-capstone-streamlitstreamlit-hyz5lm.streamlit.app/)
 - [Short video explanation](https://drive.google.com/file/d/13i5_bAYNkdLmUPxKhUNY_RBTNTcorssL/view?usp=sharing)
@@ -58,7 +58,7 @@ This project was another requirement for University of Michigan Master of Applie
 
 We selected Coinmetrics and LunarChrush, which cover a thousand cryptocurrencies providing real-time, daily and weekly updates, as well as historical data. Coinmetrics archives cryptocurrencies since January 2010, meaning data are available from the creation of almost all existing coins, while LunarCrush makes sentiment-like social media data available since September 2019. Both Coinmetrics and LunarCrush provide free APIs that facilitate data downloading. Knowing little about cryptocurrency, we decided to try to do next-day price prediction for the supervised learning part because it was a simpler goal for us to understand. For the unsupervised learning part of the project, we wanted to see if we could find families of coins whose prices tend to move together. This was accomplished by finding similar price movement through dynamic time warping and clustering, with the result being quite reasonable.
 
-###### Methods and Tools: LSTM, Random Forest, Clustering, Deepnote, Python (Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, Altair, Malplotlib)
+###### <u>Methods and Tools</u> LSTM, Random Forest, Clustering, Deepnote, Python (Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, Altair, Malplotlib)
 
 - [Final Report](https://github.com/dianeMADS/milestone2/blob/main/report/MADS-milestone2-Onguetou-Nikolsky.pdf)
 - [Further visualizations](https://dianemads-milestone2-i4rryagqxtyey26mafg5eb.streamlit.app/)
@@ -70,7 +70,7 @@ We completed the first milestone for the Master of Applied Data Science degree a
 
 Through the analysis, we determined how effective is ESPN's high school basketball rankings at predicting whether a player eventually gets drafted into the league. We also tried to specify characteristics that top players have in common that make it to the NBA, and how many years is necessary on average to get drafted.
 
-###### Methods and Tools: web scraping, KNN, Jupyter notebook, Python (pandas, numpy, requests, matplotlib, plotly, seaborn, scipy, altair, scikit-learn)
+###### <u>Methods and Tools</u> web scraping, KNN, Jupyter notebook, Python (pandas, numpy, requests, matplotlib, plotly, seaborn, scipy, altair, scikit-learn)
 
 - <a href="https://github.com/dianeMADS/milestone1/blob/main/ESPN-to-NBA%20vFinal-1.pdf">Presentation</a>
 - [Source codes](https://github.com/dianeMADS/milestone1/blob/main/espn_to_nba_vfinal.ipynb)
