@@ -1,9 +1,10 @@
-This webpage provides examples of data science projects completed by Diane for work, academic, and self-learning purposes. Those studies encompasses a broad range of skills including: 
+
+<!-- This webpage provides examples of data science projects completed by Diane for work, academic, and self-learning purposes. Those studies encompasses a broad range of skills including: 
 - RESEARCH SKILLS: critical thinking; qualitative inquiry; study design (questions, hypothesis, methodology); technical writing; oral presentation to both leadership and technical audiences
 - METHODS: web scraping, databases and cloud computing; data wrangling and data manipulation; visualization and dashboarding; statistical analysis; data mining and machine learning for causal inference analysis, network and social media analysis, learning analysis, and NLP
 - TOOLSET: SQL and key-value NoSQL; Python programming for data analysis; AWS cloud computing (SageMaker, S3, Athena); SnowFlake; Alteryx; Tableau; Power BI
 <br>
-
+-->
 ## A. [Dashboards](https://dianemads.github.io/dashboards/)
 Please click on the title to browse through a few examples of dashboards developed for various audiences including leadership, engineering and operations of an ISP. 
 ##### Tools: SQL, AWS Athena & S3, Alteryx, SnowFlake, Tableau
