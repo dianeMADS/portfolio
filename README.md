@@ -6,10 +6,20 @@ This portfolio presents examples of data science projects completed by for work,
 - TOOLSET: SQL and key-value NoSQL; Python programming for data analysis; AWS cloud computing (SageMaker, S3, Athena); SnowFlake; Alteryx; Tableau; Power BI
 <br>
 -->
+
+# CONTEXT
+
 ## A. [Dashboards](https://dianemads.github.io/dashboards/)
-Please click on the title to browse through a few examples of dashboards developed for various audiences including leadership, engineering and operations of an ISP. 
+The context for this set of dashboards is a service provider network with millions of users and a mix of all types of internet traffic. The network has hundreds of links with varied capacities, from multiple 10Gs for smaller hubsites to tens of 100Gs for backbone links. Link costs are also varied as some are on the service provider's own fiber infrastructure while others are leases from other providers.
+
+One visualization is to give leadership a high-level view of the network topology and bandwidth utilization percentage. Giving network state at any given moment, especially under critical conditions, facilitates discussions on growth requirements and network expansions. 
+
+The other dashboards are part of tools equipping network engineers with traffic statistics , 
+
+<!-- Please click on the title to browse through a few examples of dashboards developed for various audiences including leadership, engineering and operations of an ISP. 
 ##### Tools: SQL, AWS Athena & S3, Alteryx, SnowFlake, Tableau
 <br>
+-->
 
 ## B. Data Analytics
 ### B.1 Leveraging Machine Learning for Network Traffic Forecasting, July 2023
