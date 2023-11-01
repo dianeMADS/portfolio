@@ -69,7 +69,7 @@ We completed the first milestone for the Master of Applied Data Science degree a
 ###### Methods and Tools: web scraping, KNN, Jupyter notebook, Python (pandas, numpy, requests, matplotlib, plotly, seaborn, scipy, altair, scikit-learn)
 
 - <a href="https://github.com/dianeMADS/milestone1/blob/main/ESPN-to-NBA%20vFinal-1.pdf">Presentation</a>
-- [Source code](https://github.com/dianeMADS/milestone1/blob/main/espn_to_nba_vfinal.ipynb)
+- [Source codes](https://github.com/dianeMADS/milestone1/blob/main/espn_to_nba_vfinal.ipynb)
 
 [//]: # (# D. Self-Learning)
 [//]: # (D.1 Data Manipulation)
