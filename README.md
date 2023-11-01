@@ -41,9 +41,9 @@ This paper proposes a traffic forecasting approach that shows how Machine Learni
 -->
 
 ## B.2 Covid-19 Lockdown and Pollution in the City of Chicago
-This analysis was completed in December 2021, as part of requirements for the Master of Applied Data Science (MADS) degree at the University of Michigan (UMich). 
+This analysis was completed in December 2021, as part of requirements for the Master of Applied Data Science degree at the University of Michigan. 
 
-We chose to explore  the [Chicago Array of Things (AoT) dataset](http://arrayofthings.github.io/). This massive dataset was collected between 2018 and 2020 from a node array installed throughout the city of Chicago. Nodes have a variety of sensors installed at each location. These sensors fall into one of six categories air quality, meteorological, physical, environmental, system, and vision. Initially, we hoped to focus on determining the quality of life around the city. This proved to be a bit too ambitious, however. We found it very difficult to define quality of life and focus in on key measurements. Instead, we focus mainly on the air quality metrics. These metrics are easier to track over time and there are clear definitions for gas concentrations that are considered dangerous or unhealthy. The analysis focuses on the concentrations of five gasses: CO, H2S, NO2, O3, and SO2, as well as oxidizing and reducing gas concentrations.
+We chose to explore  the [Chicago Array of Things (AoT) dataset](http://arrayofthings.github.io/). This massive dataset was collected between 2018 and 2020 from a node array installed throughout the city of Chicago. Nodes have a variety of sensors installed at each location. These sensors fall into one of six categories air quality, meteorological, physical, environmental, system, and vision. Initially, we hoped to focus on determining the quality of life around the city. This proved to be a bit too ambitious, however. We found it very difficult to define quality of life based on available measurements. Instead, we focused mainly on the air quality metrics. These metrics are easier to track over time and there are clear definitions for gas concentrations that are considered dangerous or unhealthy. The analysis focuses on the concentrations of five gasses: CO, H2S, NO2, O3, and SO2, as well as oxidizing and reducing gas concentrations.
 
 ###### Methods and Tools: causal inference analysis, vector autoregression, clustering, Google colab, Python (Pandas, NumPy, Math, Matplotlib, Seaborn, statsmodels, folium, altair, gzip, os), C++
 
@@ -51,16 +51,16 @@ We chose to explore  the [Chicago Array of Things (AoT) dataset](http://arrayoft
 - [Short video explanation](https://drive.google.com/file/d/13i5_bAYNkdLmUPxKhUNY_RBTNTcorssL/view?usp=sharing)
 - [Guided tour for causal inference analysis](https://colab.research.google.com/drive/1d4nclhPZjrF58zoMY0_WiKBNh8j3n16a?usp=sharing)
 - [Guided tour for clustering analysis](https://colab.research.google.com/drive/1cOF5HxLqgX7ctv5Kh9x1HmH6RCngOZdk?usp=sharing)
-- [Github repository](https://github.com/dianeMADS/capstone)
+- [GitHub repository](https://github.com/dianeMADS/capstone)
 
 ## B.3 Cryptocurrency Analysis
-This project was another requirement for UMich MADS degree, completed in September 2021. Two main requests: supervised learning and unsupervised learning analysis. We decided to try to do next-day price prediction for the supervised learning part because it was a simpler goal for us to understand. For the unsupervised learning part of the project, we wanted to see if we could find families of coins whose prices tend to move together. This was accomplished by finding similar price movement through dynamic time warping and clustering, with the result being quite reasonable.
+This project was another requirement for University of Michigan Master of Applied Data Science degree, completed in September 2021. There were two mandates: supervised learning and unsupervised learning analysis. We selected Coinmetrics and LunarChrush, which cover a thousand cryptocurrencies providing real-time, daily and weekly updates, as well as historical data. Coinmetrics archives cryptocurrencies since January 2010, meaning data are available from the creation of almost all existing coins, while LunarCrush makes sentiment-like social media data available since September 2019. Both Coinmetrics and LunarCrush provide free APIs that facilitate data downloading. Knowing little about cryptocurrency, we decided to try to do next-day price prediction for the supervised learning part because it was a simpler goal for us to understand. For the unsupervised learning part of the project, we wanted to see if we could find families of coins whose prices tend to move together. This was accomplished by finding similar price movement through dynamic time warping and clustering, with the result being quite reasonable.
 
 ###### Methods and Tools: LSTM, Random Forest, Clustering, Deepnote, Python (Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, Altair, Malplotlib)
 
-- [pdf](https://github.com/dianeMADS/milestone2/blob/main/report/MADS-milestone2-Onguetou-Nikolsky.pdf)
-- [streamlit](https://dianemads-milestone2-i4rryagqxtyey26mafg5eb.streamlit.app/)
-- [github](https://github.com/dianeMADS/milestone2)
+- [Final Report](https://github.com/dianeMADS/milestone2/blob/main/report/MADS-milestone2-Onguetou-Nikolsky.pdf)
+- [Further visualizations](https://dianemads-milestone2-i4rryagqxtyey26mafg5eb.streamlit.app/)
+- [GitHub repository with source codes](https://github.com/dianeMADS/milestone2)
 <br>
 
 ## B.4 Path to the NBA: a detailed look into ESPN High School Basketball Player ratings predictability on making it to the NBA, May 2021
@@ -68,9 +68,8 @@ This project the first milestone of the University of Michigan MADS. The objecti
 
 ###### Methods and Tools: web scraping, KNN, Jupyter notebook, Python (pandas, numpy, requests, matplotlib, plotly, seaborn, scipy, altair, scikit-learn)
 
-<a href="https://github.com/dianeMADS/milestone1/blob/main/ESPN-to-NBA%20vFinal-1.pdf">Presentation</a>
-
-[github](https://github.com/dianeMADS/milestone1)
+- <a href="https://github.com/dianeMADS/milestone1/blob/main/ESPN-to-NBA%20vFinal-1.pdf">Presentation</a>
+- [GitHub repository with notebook](https://github.com/dianeMADS/milestone1)
 
 [//]: # (# D. Self-Learning)
 [//]: # (D.1 Data Manipulation)
