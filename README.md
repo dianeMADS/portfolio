@@ -14,7 +14,7 @@ One visualization is to give leadership a high-level view of the network topolog
 The other dashboards comprise congestion and failover tables, historical trends, and resource availability reports, equipping network engineers with tools assisting in decision-making for network resource planning.
 ###### Main Tools: SQL, AWS (Athena & S3), Alteryx, SnowFlake, Tableau
 
-- [Please follow the link to dashboards](https://dianemads.github.io/dashboards/)
+[Please follow the link to dashboards](https://dianemads.github.io/dashboards/)
 
 <!-- Please click on the title to browse through a few examples of dashboards developed for various audiences including leadership, engineering and operations of an ISP. 
 ##### Tools: SQL, AWS Athena & S3, Alteryx, SnowFlake, Tableau
@@ -34,8 +34,7 @@ This paper proposes a traffic forecasting approach that shows how Machine Learni
 
 ###### Methods and Tools: linear and exponential regressions, advanced time series forecasting models (STL, Holt-Winters Exponential Smoothing, ARIMA, LSTM), AWS (SageMaker & S3), SQL, Python (Pandas, NumPy, Math, Matplotlib, Seaborn, statsmodels, pmdarima, Scikit-learn, Keras & TensorFlow)
 
-- [D.P. Onguetou, A. Maddumabandara, J. Lee, Leveraging Machine Learning for Network Traffic Forecasting, Society of Cable Telecommunications Engineers (SCTE) Technical Forum, Fall 2023.](https://www.nctatechnicalpapers.com/Paper/2023/3580_Lee_5100_paper)
-
+[D.P. Onguetou, A. Maddumabandara, J. Lee, Leveraging Machine Learning for Network Traffic Forecasting, Society of Cable Telecommunications Engineers (SCTE) Technical Forum, Fall 2023.](https://www.nctatechnicalpapers.com/Paper/2023/3580_Lee_5100_paper)
 - <a href="https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/3580_DPO_5100_presentation.pdf">Presentation</a> 
 
 <!-- [github](https://github.com/dianeMADS/traffic-forecasting/tree/main)
