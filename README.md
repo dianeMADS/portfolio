@@ -21,7 +21,7 @@ Other dashboards comprise congestion and failover tables, historical trends, and
 <br>
 -->
 
-# B. Machine Learning Efforts
+# B. Data Analytics
 ## B.1 Leveraging Machine Learning for Network Traffic Forecasting
 This study showing how machine learning could be leveraged to improve accuracy in growth estimates and enable targeted network augmentation (using trends, seasonality and traffic patterns), received a presentation opportunity at the SCTE conference in October 2023.
 
