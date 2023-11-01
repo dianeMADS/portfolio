@@ -1,4 +1,4 @@
-These are examples of data science projects completed by for work, academic, and self-learning purposes. They include some dashboards developed to support leadership and engineers in decision-making, and a few analysis involving machine learning for predictive modelling and clustering.
+These are examples of data science projects completed by for work, academic, and self-learning purposes. They include some dashboards developed to support leadership and engineers in decision-making, and a few analysis involving predictive modelling and clustering.
 
 <!-- This webpage provides examples of data science projects completed by Diane for work, academic, and self-learning purposes. Those studies encompasses a broad range of skills including: 
 - RESEARCH SKILLS: critical thinking; qualitative inquiry; study design (questions, hypothesis, methodology); technical writing; oral presentation to both leadership and technical audiences
@@ -21,7 +21,7 @@ Other dashboards comprise congestion and failover tables, historical trends, and
 <br>
 -->
 
-# B. Data Analytics
+# B. Machine Learning Efforts
 ## B.1 Leveraging Machine Learning for Network Traffic Forecasting
 This study showing how machine learning could be leveraged to improve accuracy in growth estimates and enable targeted network augmentation (using trends, seasonality and traffic patterns), received a presentation opportunity at the SCTE conference in October 2023.
 
