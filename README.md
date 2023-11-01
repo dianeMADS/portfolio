@@ -22,7 +22,7 @@ The other dashboards comprise congestion and failover tables, historical trends,
 
 # B. Data Analytics
 ## B.1 Leveraging Machine Learning for Network Traffic Forecasting
-This study showing how machine learning could be leveraged to improve accuracy in growth estimates and enable targeted network augmentation (using trends, seasonality and network patterns), received a presentation opportunity at the SCTE conference in October 2023.
+This study showing how machine learning could be leveraged to improve accuracy in growth estimates and enable targeted network augmentation (using trends, seasonality and traffic patterns), received a presentation opportunity at the SCTE conference in October 2023.
 
 #### Abstract
 Traditional network planning relies on Compound Annual Growth Rate (CAGR). However, applying the same growth estimate across the entire network is not always accurate due to various factors such as economic, social, or demographic reasons. For example, a community with a nearby university is expected to have a different traffic behaviour during the school year compared to the summer, and a community that hosts major sports franchises exhibits higher traffic depending on regular and post-season performance.
