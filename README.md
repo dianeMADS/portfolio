@@ -7,9 +7,7 @@ This portfolio presents examples of data science projects completed by for work,
 <br>
 -->
 
-# CONTENT
-
-## A. Dashboards
+# A. Dashboards
 The context for this set of dashboards is a service provider network with millions of users and a mix of all types of internet traffic. The network has hundreds of links with varied capacities, from multiple 10Gs for smaller hubsites to tens of 100Gs for backbone links. Link costs are also varied as some are on the service provider's own fiber infrastructure while others are leases from other providers.
 
 One visualization is to give leadership a high-level view of the network topology and bandwidth utilization. Giving network state at given times, especially under critical conditions, facilitates discussions on growth requirements and network expansions. 
@@ -22,7 +20,7 @@ The other dashboards comprise congestion and failover tables, historical trends,
 <br>
 -->
 
-## B. Data Analytics
+# B. Data Analytics
 ### B.1 Leveraging Machine Learning for Network Traffic Forecasting, July 2023
 [D.P. Onguetou, A. Maddumabandara, J. Lee, Leveraging Machine Learning for Network Traffic Forecasting, Society of Cable Telecommunications Engineers (SCTE) Technical Forum, Fall 2023.](https://www.nctatechnicalpapers.com/Paper/2023/3580_Lee_5100_paper)
 <br> This study shows how Machine Learning could be leveraged for network traffic forecasting--what a great way to improve accuracy in growth estimates and enable targeted network automation (using trends, seasonality and network patterns.)
