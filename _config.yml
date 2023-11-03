@@ -1,5 +1,6 @@
-title: Data Science Portfolio of Diane Prisca O.
+#title: Data Science Portfolio of Diane Prisca O.
+title: Data Portfolio
 #logo: /assets/img/headshot_circle.png
-#description: 
-show_downloads: false
-#theme: jekyll-theme-time-machine
+description: Diane Prisca O.
+#show_downloads: false
+theme: jekyll-theme-time-machine
