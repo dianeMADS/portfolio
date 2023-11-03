@@ -74,5 +74,8 @@ Through the analysis, we determined how effective is ESPN's high school basketba
 - <a href="https://github.com/dianeMADS/milestone1/blob/main/ESPN-to-NBA%20vFinal-1.pdf">Presentation</a>
 - [Source codes](https://github.com/dianeMADS/milestone1/blob/main/espn_to_nba_vfinal.ipynb)
 
+# Getting In Touch
+Would you like to chat about the portfolio, work opportunities or collaboration, reach out at diane.onguetou@gmail.com 
+
 [//]: # (# D. Self-Learning)
 [//]: # (D.1 Data Manipulation)
